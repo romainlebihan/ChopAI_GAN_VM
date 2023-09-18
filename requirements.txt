@@ -1,0 +1,26 @@
+# basic imports
+pandas
+numpy
+
+# modelling imports
+tensorflow
+keras
+scipy
+scikit-learn
+
+# visualization imports
+matplotlib
+seaborn
+
+# jupyter
+ipdb
+ipykernel
+
+# Google
+google-cloud-bigquery
+google-cloud-storage
+db-dtypes
+
+# Music & image processing
+music21
+imageio
