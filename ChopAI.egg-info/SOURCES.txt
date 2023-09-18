@@ -1,0 +1,7 @@
+README.md
+setup.py
+ChopAI.egg-info/PKG-INFO
+ChopAI.egg-info/SOURCES.txt
+ChopAI.egg-info/dependency_links.txt
+ChopAI.egg-info/requires.txt
+ChopAI.egg-info/top_level.txt

@@ -1,0 +1,15 @@
+pandas
+numpy
+tensorflow
+keras
+scipy
+scikit-learn
+matplotlib
+seaborn
+ipdb
+ipykernel
+google-cloud-bigquery
+google-cloud-storage
+db-dtypes
+music21
+imageio
